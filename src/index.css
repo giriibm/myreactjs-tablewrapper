@@ -1,0 +1,17 @@
+html, body, #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    position: relative;
+}
+* {
+    box-sizing: border-box;
+}
+#root {
+    border: solid 4px #369;
+}
+
+.list-holder {
+    display: flex;
+    flex-direction: row;
+}

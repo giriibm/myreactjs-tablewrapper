@@ -1,0 +1,18 @@
+.my-list {
+    border: solid thin #369;
+    margin: 4px;
+}
+
+.my-list-item {
+    padding: 4px;
+    border-bottom: solid thin #369;
+}
+
+.my-list-item:hover{
+    background-color: #369;
+}
+
+.selected {
+    background-color: #369;
+    color: #FFF;
+}

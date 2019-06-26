@@ -1,0 +1,13 @@
+.app {
+    margin: 10px;
+    padding: 5px;
+    width: calc(100% - 20px);
+    height: calc(100% - 20px);
+    background-color: #ccc;
+}
+.my-fruits {
+    color: red;
+}
+.my-fruits li:nth-child(odd) {
+    color: green
+}

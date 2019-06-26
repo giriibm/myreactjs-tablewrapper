@@ -1,0 +1,9 @@
+.my-list.horizontal-list {
+    display: flex;
+    flex-direction: row;
+}
+
+.my-list.horizontal-list .my-list-item {
+    border: none;
+    border-right: solid thin #369;
+}
